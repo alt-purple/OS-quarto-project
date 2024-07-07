@@ -1,5 +1,7 @@
 project:
   title: "OS-quarto-project"
+  type: website
+  output-dir: docs
 
 editor: visual
 
